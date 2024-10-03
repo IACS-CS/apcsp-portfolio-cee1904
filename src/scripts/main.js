@@ -1,6 +1,6 @@
 import "../styles/styles.css";
 // Add imports here
-
+import "@picocss/pico/css/pico.min.css";
 console.log("What?");
 console.log("Hello world, from main.js!");
 if (typeof window !== "undefined") {
