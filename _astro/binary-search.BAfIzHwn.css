@@ -13,7 +13,14 @@ body {
    
   background-color: #8680da74;
   min-height: 100vh;
+  margin-bottom: 64px;
    
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    height: 64px;
+    border-top: 2px solid #702ed4;
 }
 /*!
  * Pico CSS ✨ v2.0.6 (https://picocss.com)
